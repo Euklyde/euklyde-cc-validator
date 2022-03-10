@@ -1,6 +1,6 @@
 # euklyde-cc-validator
 
-![test](https://img.shields.io/github/license/Euklyde/euklyde-cc-validator) ![test2](https://img.shields.io/github/downloads/Euklyde/euklyde-cc-validator/total)
+![test](https://img.shields.io/github/license/Euklyde/euklyde-cc-validator) ![test2](https://img.shields.io/github/downloads/Euklyde/euklyde-cc-validator/total?cacheSeconds=30)
 
 ## What is CC Validator ?
 CC Validator is a small Java library which can validate (or not) a credit card using the Luhn-10 algorithm.
